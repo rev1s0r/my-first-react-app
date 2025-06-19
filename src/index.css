@@ -74,7 +74,4 @@ body {
  color: white;
 }
 
-@utility text-gradient {
-  @apply bg-linear-to-r from-[#D6C7FF] to-[#Ab8bff] bg-clip-text text-transparent;
-}
 
