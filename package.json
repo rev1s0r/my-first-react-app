@@ -1,5 +1,7 @@
 {
   "name": "my-first-react-app",
+    "homepage": "https://rev1s0r.github.io/my-first-react-app",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
